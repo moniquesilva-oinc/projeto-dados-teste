@@ -133,7 +133,7 @@ git push -u origin chore/organiza-pastas
 → PR no GitHub → merge → git pull origin main
 
 DEMAIS PENDÊNCIAS DO DIA 2:
-- Instalar Claude Code
-- Criar primeira Skill
-- Aprender VSCode avançado para dados
+- Instalar Claude Code.
+- Criar primeira Skill.
+- Aprender VSCode avançado para dados.
 
