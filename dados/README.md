@@ -137,3 +137,8 @@ DEMAIS PENDÊNCIAS DO DIA 2:
 - Criar primeira Skill.
 - Aprender VSCode avançado para dados.
 
+## Aprendizados Dia 1
+- Fluxo Git: branch → commit → push → PR → merge → pull
+- Conventional Commits: feat / fix / docs / chore / refactor
+- SOMARPRODUTO para saldo acumulado por projeto no Sheets
+- Separador decimal no Sheets PT-BR é vírgula, não ponto
